@@ -1,0 +1,27 @@
+This is the Perl distribution ShipIt-Step-DistTestExtra.
+
+## Installation
+
+ShipIt-Step-DistTestExtra installation is straightforward. If your CPAN shell
+is set up, you should just be able to do
+
+    % cpan ShipIt::Step::DistTestExtra
+
+Download it, unpack it, then build it as per the usual:
+
+    % perl Makefile.PL
+    % make && make test
+
+Then install it:
+
+    % make install
+
+## Documentation
+
+ShipIt-Step-DistTestExtra documentation is available as in POD. So you can do:
+
+    % perldoc ShipIt::Step::DistTestExtra
+
+to read the documentation online with your favorite pager.
+
+Marcel Gruenauer
